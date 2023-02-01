@@ -1,6 +1,6 @@
 #Finder Browser
 
-Finder is a simple browser app on flutter with backinf in pytion using flash and json database. Finder also includes a fun intractive snake game that can be played if internet connection is not available.
+Finder is a simple browser app on flutter with backend in python using flash and json database. Finder also includes a fun intractive snake game that can be played if internet connection is not available.
 
 
 ![Screenshot_20230119_113101](https://user-images.githubusercontent.com/100791668/216076583-b9571cfc-e34b-48fe-9ea6-67e476bf40ed.jpg)
